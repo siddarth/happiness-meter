@@ -9,7 +9,7 @@ opts = Trollop::options do
 The happiness meter is used to track your happiness over time.
 
 Usage:
-       ./happiness-meter [options] <filenames>+
+       ./happiness-meter [options]
 where [options] are:
 EOS
 
