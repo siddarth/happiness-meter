@@ -1,0 +1,16 @@
+== ABOUT
+
+happiness-meter 1.0.0 by Siddarth Chandrasekaran (2011)
+
+The happiness meter is a command line utility used to track your
+happiness over time.
+
+== USAGE
+
+       ./happiness-meter [options]
+where [options] are:
+      --list, -l:   List all values to date.
+   --add, -a <f>:   Add a data point.
+  --note, -n <s>:   Add a note while adding a data point.
+   --version, -v:   Print version and exit
+      --help, -h:   Show this message
